@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://media.tenor.com/EUmB8iNJmW8AAAAj/tkthao219-bunny.gif"/>
 </p>
-<h4 align="center">Hi 👋, I'm Yoga Krisna</h1>
+<h4 align="center">Hi 👋, I'm Yoga Krisna.</h1>
 
 *```I am a Full Stack Developer passionate about building scalable and secure systems, with a primary focus on backend development using Laravel & Golang```*
 
