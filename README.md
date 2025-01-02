@@ -1,6 +1,9 @@
-<h4 align="center">Hi 👋, I'm Syeh Abdi Yoga Krisna</h1>
+<p align="center">
+<img src="https://media.tenor.com/EUmB8iNJmW8AAAAj/tkthao219-bunny.gif"/>
+</p>
+<h4 align="center">Hi 👋, I'm Yoga Krisna</h1>
 
-> I am a Full Stack Developer passionate about building scalable and secure systems, with a primary focus on backend development using Laravel & Golang
+*```I am a Full Stack Developer passionate about building scalable and secure systems, with a primary focus on backend development using Laravel & Golang```*
 
 [![](https://visitcount.itsvg.in/api?id=Kalveir&icon=6&color=7)](https://visitcount.itsvg.in)
 
