@@ -5,6 +5,8 @@
 
 *```I am a Full Stack Developer passionate about building scalable and secure systems, with a primary focus on backend development using Laravel & Golang```*
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalveir&label=Profile%20views&color=0e75b6&style=flat" alt="kalveir" /> </p>
+
 [![](https://visitcount.itsvg.in/api?id=Kalveir&icon=6&color=7)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
